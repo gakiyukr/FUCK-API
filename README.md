@@ -6,31 +6,13 @@
 ## 搭建教程
 ### 下载链接
 
-Github仓库：[avalonsky-user/FUCK-API (github.com)](https://github.com/avalonsky-user/FUCK-API)
+GitLab仓库：[FUCK-API (github.com)](https://gitlab.com/gakiyukr/FUCK-API/)
 
-### 效果展示
-
-JSON版：[https://fuck-lite.ctexcel.click/api/v1/aword/lite](https://fuck-lite.ctexcel.click/api/v1/aword/lite)
-
-纯文字版：[https://fuck-lite.ctexcel.click/api/v1/aword/lite?return=txt](https://fuck-lite.ctexcel.click/api/v1/aword/lite?return=txt)
 
 ### 如何使用
 
-首先，去GitHub给全部源码下载下来，记住你下载到哪里去了，后面需要用。
+首先，去GitLab给全部源码下载下来，记住你下载到哪里去了，后面需要用。
 
-你愿意用
-
-```
-git clone https://github.com/avalonsky-user/FUCK-API.git
-```
-
-还是
-
-```
-wget https://github.com/avalonsky-user/FUCK-API/releases/download/New/v0.1.zip
-```
-
-都无所谓，反正能跑起来就行。
 
 然后去宝塔应用商店安装Node.js管理器，并且在里面安装Node v16.0.0（测试版）。
 
